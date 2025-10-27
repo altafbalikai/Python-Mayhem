@@ -1,6 +1,4 @@
-# DobaraMatPuchana
-
-## **Jyoti** : Assistant for blind
+# Assistant for blind
 
 A *voice assistant* specifically aiming towards aiding the visually imapired.
 
@@ -72,3 +70,4 @@ Tech- stacks used:
  ```
  python main.py
  ```
+
